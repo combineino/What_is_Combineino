@@ -21,3 +21,16 @@ Arduino互換MPUといろんなシールドのコンバイン（結合）した�
 | [ATMEGA1284P-AU]　[I-04416]  | 1個 ￥780（税込） | http://akizukidenshi.com/catalog/g/gI-04416/ |
 | [ATMEGA128-16AU]　[I-01116]  | 1個 ￥800（税込） | http://akizukidenshi.com/catalog/g/gI-01116/ |
 | [ATMEGA128-16AU]　[I-09155]  | 1個 ￥800（税込） | http://akizukidenshi.com/catalog/g/gI-09155/ |
+
+| 商品名                       | 販売価格              |                                              |
+|------------------------------|-----------------------|----------------------------------------------|
+| [ATTINY13A-PU]　[I-02911]    | 1個 ￥50（税込）      | http://akizukidenshi.com/catalog/g/gI-02911/ |
+| [AT90S2313-10PC]　[I-00026]  | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00026/ |
+| [AT90S2323-10PC]　[I-00027]  | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00027/ |
+| [ATTINY10]　[I-05174]        | 1パック ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-05174/ |
+| [ATTINY85-20PU]　[I-09573]   | 1個 ￥160（税込）     | http://akizukidenshi.com/catalog/g/gI-09573/ |
+| [ATTINY861A-PU]　[I-04301]   | 1個 ￥220（税込）     | http://akizukidenshi.com/catalog/g/gI-04301/ |
+| [ATTINY2313-20PU]　[I-01600] | 1個 ￥230（税込）     | http://akizukidenshi.com/catalog/g/gI-01600/ |
+| [ATTINY85-20SUR]　[I-09574]  | 1個 ￥250（税込）     | http://akizukidenshi.com/catalog/g/gI-09574/ |
+| [AT90S4433-8PC]　[I-00270]   | 1個 ￥600（税込）     | http://akizukidenshi.com/catalog/g/gI-00270/ |
+| [AT90S8535-8]　[I-00030]     | 1個 ￥700（税込）     | http://akizukidenshi.com/catalog/g/gI-00030/ |
