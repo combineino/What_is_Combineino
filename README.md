@@ -4,6 +4,9 @@ Arduino互換MPUといろんなシールドのコンバイン（結合）した�
 AVRのページ
 http://yueda.issp.u-tokyo.ac.jp/weda/avr/avrj.html
 
+Arduino ATtiny/mega ピン割付表
+http://make.kosakalab.com/web-archives/pins_arduino/
+
 | 商品名                       | 販売価格          | URL                                          |
 |------------------------------|-------------------|----------------------------------------------|
 | [ATMEGA48-20AU]　[I-08437]   | 1個 ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-08437/ |
