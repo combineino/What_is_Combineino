@@ -10,13 +10,14 @@ http://yueda.issp.u-tokyo.ac.jp/weda/avr/avrj.html
 Arduino ATtiny/mega ピン割付表
 http://make.kosakalab.com/web-archives/pins_arduino/
 
+## ATmega
+
 | 商品名                       | 販売価格          | URL                                          |
 |------------------------------|-------------------|----------------------------------------------|
 | [ATMEGA48-20AU]　[I-08437]   | 1個 ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-08437/ |
 | [ATmega88V-10PU]　[I-03655]  | 1個 ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-03655/ |
 | [ATMEGA8-16PU-ND]　[I-02868] | 1個 ￥180（税込） | http://akizukidenshi.com/catalog/g/gI-02868/ |
 | [ATMEGA168P-20PU]　[I-03033] | 1個 ￥200（税込） | http://akizukidenshi.com/catalog/g/gI-03033/ |
-| [ATXMEGA32D4-AUR]　[I-06993] | 1個 ￥250（税込） | http://akizukidenshi.com/catalog/g/gI-06993/ |
 | [ATMEGA328P-PU]　[I-03142]   | 1個 ￥250（税込） | http://akizukidenshi.com/catalog/g/gI-03142/ |
 | [ATMEGA328P-AU]　[I-04386]   | 1個 ￥280（税込） | http://akizukidenshi.com/catalog/g/gI-04386/ |
 | [ATMEGA32U2-AUR]　[I-06994]  | 1個 ￥400（税込） | http://akizukidenshi.com/catalog/g/gI-06994/ |
@@ -29,6 +30,20 @@ http://make.kosakalab.com/web-archives/pins_arduino/
 | [ATMEGA1284P-AU]　[I-04416]  | 1個 ￥780（税込） | http://akizukidenshi.com/catalog/g/gI-04416/ |
 | [ATMEGA128-16AU]　[I-01116]  | 1個 ￥800（税込） | http://akizukidenshi.com/catalog/g/gI-01116/ |
 | [ATMEGA128-16AU]　[I-09155]  | 1個 ￥800（税込） | http://akizukidenshi.com/catalog/g/gI-09155/ |
+
+## ATXmega
+XMega For Arduino
+https://github.com/XMegaForArduino
+
+| 商品名                       | 販売価格          | URL                                          |
+| [ATXMEGA32D4-AUR]　[I-06993] | 1個 ￥250（税込） | http://akizukidenshi.com/catalog/g/gI-06993/ |
+
+## ATtiny
+SpenceKonde/ATTinyCore
+https://github.com/SpenceKonde/ATTinyCore
+
+8pin AVRの活用
+http://elm-chan.org/works/tiny/report.html
 
 | 商品名                       | 販売価格              |                                              |
 |------------------------------|-----------------------|----------------------------------------------|
