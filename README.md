@@ -73,7 +73,8 @@ http://www.tablesgenerator.com/markdown_tables
 * 著作権者のクレジット表記義務(BY)：原著作権者のクレジットを明記しなければいけません。
 * 同一条件の継承義務(SA)：作品を改変・変形または加工した場合、その制作品をこの作品と同一の許諾条件でのみ、頒布することができます。
 
-### ArduinoのハードウエアのライセンスでCC同一条件の継承義務(SA)ですのでCombineinoもCreative Commons License CC-BY-SA　とします。
+Arduinoのハードウエアのライセンスより同一条件の継承義務(SA)ですので
+### CombineinoはCreative Commons License CC-BY-SA　となります。
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
 
 
