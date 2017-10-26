@@ -1,21 +1,6 @@
 # What_is_Combineino? コンバインーノとは？
 Arduino互換MPUといろんなシールドのコンバイン（結合）したい人のオープンハードウェア
 
-
-
-[easy labo](http://easylabo.com/) さんのブログ[Arduinoの商用利用](http://easylabo.com/2015/04/arduino/9065/)より
-* Arduinoのハードウエアのライセンスは、[Creative Commons](https://creativecommons.org/choose/) Attribution Share-Alike license(CC-BY-SA)です。
-## CombineinoもCreative Commons License CC-BY-SA　とします。
-* 著作権者のクレジット表記義務(BY)：原著作権者のクレジットを明記しなければいけません。
-* 同一条件の継承義務(SA)：作品を改変・変形または加工した場合、その制作品をこの作品と同一の許諾条件でのみ、頒布することができます。
-
-以下は許可されます。
-* 非営利の場合のみ使用許可(NC)はありません：この作品を営利目的で利用してもいいです。
-* 改変の禁止(ND)はあっりません：作品を改変・変形または加工してもいいです。
-
-クリエイティブ・コモンズ・ライセンス (Creative Commons License)ライセンス付与のしかた
-https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/CCLicense%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E4%BB%98%E4%B8%8E%E3%81%AE%E3%81%97%E3%81%8B%E3%81%9F:%E6%8E%A1%E7%94%A8%E3%81%AE%E7%90%86%E7%94%B1.md
-
 自作したフットプリントをgithubで管理する
 http://www.usagi1975.com/01feb151931/
 
@@ -77,3 +62,28 @@ Markdown Tables Generator
 http://www.tablesgenerator.com/markdown_tables
 
 プロジェクトの参考：Qiita [Arduinoを自作して量産して販売する](https://qiita.com/akichika/items/4c282c638b38681050d9)
+
+
+## Licenses and Credits ライセンスとクレジット
+
+### Arduinoのハードウエアのライセンスは、[Creative Commons](https://creativecommons.org) Attribution Share-Alike license(CC-BY-SA)です。
+
+つまり、
+
+* 著作権者のクレジット表記義務(BY)：原著作権者のクレジットを明記しなければいけません。
+* 同一条件の継承義務(SA)：作品を改変・変形または加工した場合、その制作品をこの作品と同一の許諾条件でのみ、頒布することができます。
+
+### ArduinoのハードウエアのライセンスでCC同一条件の継承義務(SA)ですのでCombineinoもCreative Commons License CC-BY-SA　とします。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
+
+
+以下は許可されます。
+* 非営利の場合のみ使用許可(NC)はありません：この作品を営利目的で利用してもいいです。
+* 改変の禁止(ND)はあっりません：作品を改変・変形または加工してもいいです。
+
+ [easy labo](http://easylabo.com/) さんのブログ[Arduinoの商用利用](http://easylabo.com/2015/04/arduino/9065/)を参考にしました。
+
+
+クリエイティブ・コモンズ・ライセンス (Creative Commons License)ライセンス付与のしかた
+https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/CCLicense%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E4%BB%98%E4%B8%8E%E3%81%AE%E3%81%97%E3%81%8B%E3%81%9F:%E6%8E%A1%E7%94%A8%E3%81%AE%E7%90%86%E7%94%B1.md
+
