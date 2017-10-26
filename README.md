@@ -1,11 +1,17 @@
 # What_is_Combineino? コンバインーノとは？
 Arduino互換MPUといろんなシールドのコンバイン（結合）したい人のオープンハードウェア
 
-プロジェクトの進め方　参考：Arduinoを自作して量産して販売する(超小型Arduino互換機 8pinoを例に)
-https://qiita.com/akichika/items/4c282c638b38681050d9
 
-Arduinoの商用利用
-http://easylabo.com/2015/04/arduino/9065/
+
+[easy labo](http://easylabo.com/) さんのブログ[Arduinoの商用利用](http://easylabo.com/2015/04/arduino/9065/)より
+* Arduinoのハードウエアのライセンスは、[Creative Commons](https://creativecommons.org/choose/) Attribution Share-Alike license(CC-BY-SA)です。
+## CombineinoもCreative Commons License CC-BY-SA　とします。
+* 著作権者のクレジット表記義務(BY)：原著作権者のクレジットを明記しなければいけません。
+* 同一条件の継承義務(SA)：作品を改変・変形または加工した場合、その制作品をこの作品と同一の許諾条件でのみ、頒布することができます。
+
+以下は許可されます。
+* 非営利の場合のみ使用許可(NC)はありません：この作品を営利目的で利用してもいいです。
+* 改変の禁止(ND)はあっりません：作品を改変・変形または加工してもいいです。
 
 クリエイティブ・コモンズ・ライセンス (Creative Commons License)ライセンス付与のしかた
 https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/CCLicense%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E4%BB%98%E4%B8%8E%E3%81%AE%E3%81%97%E3%81%8B%E3%81%9F:%E6%8E%A1%E7%94%A8%E3%81%AE%E7%90%86%E7%94%B1.md
@@ -69,3 +75,5 @@ http://elm-chan.org/works/tiny/report.html
 
 Markdown Tables Generator
 http://www.tablesgenerator.com/markdown_tables
+
+プロジェクトの参考：Qiita [Arduinoを自作して量産して販売する](https://qiita.com/akichika/items/4c282c638b38681050d9)
