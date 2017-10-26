@@ -66,19 +66,29 @@ http://www.tablesgenerator.com/markdown_tables
 
 ## Licenses and Credits ライセンスとクレジット
 
-### Arduinoのハードウエアのライセンスは、[Creative Commons](https://creativecommons.org) Attribution Share-Alike license(CC-BY-SA)です。
+### Arduinoのハードウエアのライセンスは、[Creative Commons](https://creativecommons.jp/licenses/) Attribution Share-Alike license(CC-BY-SA)です。
 
 つまり、
 
 * 著作権者のクレジット表記義務(BY)：原著作権者のクレジットを明記しなければいけません。
 * 同一条件の継承義務(SA)：作品を改変・変形または加工した場合、その制作品をこの作品と同一の許諾条件でのみ、頒布することができます。
 
-Arduinoのハードウエアのライセンスより同一条件の継承義務(SA)ですので
-### Combineino　は　Creative Commons License CC-BY-SA　とします。
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
-このハードウェアは <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
+## Arduino Credits
+https://www.arduino.cc/en/Main/Credits
 
-（クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス原文）https://creativecommons.org/licenses/by-sa/4.0/
+Arduino is an open-source project founded by Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino, and David Mellis. It builds on the work of many people, projects, and institutions. This page attempts to summarize those contributions.
+
+![image](https://cdn.arduino.cc/homepage/images/what_is-board.png)
+
+Arduinoのハードウエアのライセンスより同一条件の継承義務(SA)ですので
+
+### Combineino は Creative Commons License CC-BY-SA　とします。
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
+このハードウェアは <a rel="license" href="https://creativecommons.org/licenses/by/4.0/legalcode.ja">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ BY-SA の要約</a>
+
+クリエイティブ・コモンズ BY-SA の MarkDown https://github.com/idleberg/Creative-Commons-Markdown/edit/master/4.0/by-sa.markdown
 
 以下は許可されます。
 * 非営利の場合のみ使用許可(NC)はありません：この作品を営利目的で利用してもいいです。
@@ -88,5 +98,4 @@ Arduinoのハードウエアのライセンスより同一条件の継承義務(
 
 
 クリエイティブ・コモンズ・ライセンス (Creative Commons License)ライセンス付与のしかた
-https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/CCLicense%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E4%BB%98%E4%B8%8E%E3%81%AE%E3%81%97%E3%81%8B%E3%81%9F:%E6%8E%A1%E7%94%A8%E3%81%AE%E7%90%86%E7%94%B1.md
-
+https://qiita.com/spiegel-im-spiegel/items/cc3d9cc46cc931b0e921
