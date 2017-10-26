@@ -76,7 +76,9 @@ http://www.tablesgenerator.com/markdown_tables
 Arduinoのハードウエアのライセンスより同一条件の継承義務(SA)ですので
 ### Combineino　は　Creative Commons License CC-BY-SA　とします。
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
-このハードウェアは <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。（原文）https://creativecommons.org/licenses/by-sa/4.0/
+このハードウェアは <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
+
+（クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス原文）https://creativecommons.org/licenses/by-sa/4.0/
 
 以下は許可されます。
 * 非営利の場合のみ使用許可(NC)はありません：この作品を営利目的で利用してもいいです。
