@@ -7,6 +7,9 @@ https://qiita.com/akichika/items/4c282c638b38681050d9
 Arduinoの商用利用
 http://easylabo.com/2015/04/arduino/9065/
 
+自作したフットプリントをgithubで管理する
+http://www.usagi1975.com/01feb151931/
+
 AVRについてのページ
 http://yueda.issp.u-tokyo.ac.jp/weda/avr/avrj.html
 
