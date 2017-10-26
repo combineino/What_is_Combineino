@@ -4,6 +4,9 @@ Arduino互換MPUといろんなシールドのコンバイン（結合）した�
 プロジェクトの進め方　参考：Arduinoを自作して量産して販売する(超小型Arduino互換機 8pinoを例に)
 https://qiita.com/akichika/items/4c282c638b38681050d9
 
+Arduinoの商用利用
+http://easylabo.com/2015/04/arduino/9065/
+
 AVRについてのページ
 http://yueda.issp.u-tokyo.ac.jp/weda/avr/avrj.html
 
