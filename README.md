@@ -7,6 +7,9 @@ https://qiita.com/akichika/items/4c282c638b38681050d9
 Arduinoの商用利用
 http://easylabo.com/2015/04/arduino/9065/
 
+クリエイティブ・コモンズ・ライセンス (Creative Commons License)ライセンス付与のしかた
+https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/CCLicense%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E4%BB%98%E4%B8%8E%E3%81%AE%E3%81%97%E3%81%8B%E3%81%9F:%E6%8E%A1%E7%94%A8%E3%81%AE%E7%90%86%E7%94%B1.md
+
 自作したフットプリントをgithubで管理する
 http://www.usagi1975.com/01feb151931/
 
