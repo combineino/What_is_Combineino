@@ -10,6 +10,9 @@ http://yueda.issp.u-tokyo.ac.jp/weda/avr/avrj.html
 Arduino ATtiny/mega ピン割付表
 http://make.kosakalab.com/web-archives/pins_arduino/
 
+Adafruit Trinketを使ってHID（キーボード）を作る
+http://b.denkizakana.com/2014/07/adafruit-trinkethid.html
+
 ## ATmega
 
 | 商品名                       | 販売価格          | URL                                          |
