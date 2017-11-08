@@ -6,6 +6,9 @@ Arduino互換MPUといろんなシールドのコンバイン（結合）した�
 自作したフットプリントをgithubで管理する
 http://www.usagi1975.com/01feb151931/
 
+KICADの他のプロジェクトから回路をコピーする
+http://logiclover.hatenablog.jp/entry/2017/03/31/215600
+
 AVRについてのページ
 http://yueda.issp.u-tokyo.ac.jp/weda/avr/avrj.html
 
