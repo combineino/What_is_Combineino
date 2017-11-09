@@ -4,6 +4,8 @@ Arduino互換MPUといろんなシールドのコンバイン（結合）した�
 Open Source Hardware Association
 https://www.oshwa.org/
 
+![image](https://github.com/combineino/What_is_Combineino/blob/master/OSHW%20Logo.jpg?raw=true)
+
 オープンソース・ハードウェア（OSHW）基準書1.0
 https://www.oshwa.org/definition/japanese/
 
