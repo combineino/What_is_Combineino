@@ -1,6 +1,12 @@
 # What_is_Combineino? コンバインーノとは？
 Arduino互換MPUといろんなシールドのコンバイン（結合）したい人のオープンソースハードウェア
 
+Open Source Hardware Association
+https://www.oshwa.org/
+
+オープンソース・ハードウェア（OSHW）基準書1.0
+https://www.oshwa.org/definition/japanese/
+
 オープンソースハードウェア　wikipedia.
 https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2
 
