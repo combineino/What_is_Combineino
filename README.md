@@ -64,7 +64,7 @@ http://elm-chan.org/works/tiny/report.html
 | ATTINY13A-PU    | 1個 ￥50（税込）      | http://akizukidenshi.com/catalog/g/gI-02911/ |
 | AT90S2313-10PC  | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00026/ |
 | AT90S2323-10PC  | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00027/ |
-| ATTINY10        | 1パック ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-05174/ |
+| ATTINY10 変換基板実装       | 1パック ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-05174/ |
 | ATTINY85-20PU   | 1個 ￥160（税込）     | http://akizukidenshi.com/catalog/g/gI-09573/ |
 | ATTINY861A-PU   | 1個 ￥220（税込）    | http://akizukidenshi.com/catalog/g/gI-04301/ |
 | ATTINY2313-20PU | 1個 ￥230（税込）     | http://akizukidenshi.com/catalog/g/gI-01600/ |
