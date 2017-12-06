@@ -12,17 +12,6 @@ https://www.oshwa.org/definition/japanese/
 オープンソースハードウェア　[wikipedia.](
 https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2)
 
-スニペットとは、一般的には「切れ端」「断片」という意味の英語である。 IT用語としては、プログラミング言語の中で簡単に切り貼りして再利用できる部分のこと、または、検索エンジンによる検索結果の一部として表示される、Webページの要約文のことである。
-
-AVRについてのページ
-http://yueda.issp.u-tokyo.ac.jp/weda/avr/avrj.html
-
-Arduino ATtiny/mega ピン割付表
-http://make.kosakalab.com/web-archives/pins_arduino/
-
-Adafruit Trinketを使ってHID（キーボード）を作る
-http://b.denkizakana.com/2014/07/adafruit-trinkethid.html
-
 ## ATmega
 ### MiniCore
 https://github.com/MCUdude/MiniCore
@@ -35,12 +24,12 @@ https://github.com/MCUdude/MiniCore
 
 | 商品名                       | 販売価格          | URL                                          |
 |------------------------------|-------------------|----------------------------------------------|
-| ATMEGA48-20AU　   | 1個 ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-08437/ |
-| ATmega88V-10PU　  | 1個 ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-03655/ |
-| ATMEGA8-16PU-ND　 | 1個 ￥180（税込） | http://akizukidenshi.com/catalog/g/gI-02868/ |
-| ATMEGA168P-20PU　 | 1個 ￥200（税込） | http://akizukidenshi.com/catalog/g/gI-03033/ |
-| ATMEGA328P-PU　   | 1個 ￥250（税込） | http://akizukidenshi.com/catalog/g/gI-03142/ |
-| ATMEGA328P-AU　   | 1個 ￥280（税込） | http://akizukidenshi.com/catalog/g/gI-04386/ |
+| ATMEGA48-20AU　TQFP32 20Mhz| 1個 ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-08437/ |
+| ATmega88V-10PU　DIP28　10Mhz | 1個 ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-03655/ |
+| ATMEGA8-16PU-ND　DIP28　16Mhz | 1個 ￥180（税込） | http://akizukidenshi.com/catalog/g/gI-02868/ |
+| ATMEGA168P-20PU　DIP28　20Mhz | 1個 ￥200（税込） | http://akizukidenshi.com/catalog/g/gI-03033/ |
+| ATMEGA328P-PU　DIP28　20Mhz  | 1個 ￥250（税込） | http://akizukidenshi.com/catalog/g/gI-03142/ |
+| ATMEGA328P-AU　TQFP32 20Mhz | 1個 ￥280（税込） | http://akizukidenshi.com/catalog/g/gI-04386/ |
 ### ATmega328PB Testing
 https://github.com/watterott/ATmega328PB-Testing/
 
@@ -57,11 +46,11 @@ https://github.com/MCUdude/MightyCore
 
 | 商品名                       | 販売価格          | URL                                          |
 |------------------------------|-------------------|----------------------------------------------|
-| ATMEGA32U2-AUR  | 1個 ￥400（税込） | http://akizukidenshi.com/catalog/g/gI-06994/ |
-| ATMEGA164P-20PU | 1個 ￥500（税込） | http://akizukidenshi.com/catalog/g/gI-02269/ |
-| ATMEGA32U4-AUR  | 1個 ￥640（税込） | http://akizukidenshi.com/catalog/g/gI-09835/ |
-| ATMEGA1284P-PU  | 1個 ￥750（税込） | http://akizukidenshi.com/catalog/g/gI-04461/ |
-| ATMEGA1284P-AU  | 1個 ￥780（税込） | http://akizukidenshi.com/catalog/g/gI-04416/ |
+| ATMEGA32U2-AUR TQFP32 16Mhz USB | 1個 ￥400（税込） | http://akizukidenshi.com/catalog/g/gI-06994/ |
+| ATMEGA164P-20PU DIP40　20Mhz| 1個 ￥500（税込） | http://akizukidenshi.com/catalog/g/gI-02269/ |
+| ATMEGA32U4-AUR TQFP44 16Mhz USB | 1個 ￥640（税込） | http://akizukidenshi.com/catalog/g/gI-09835/ |
+| ATMEGA1284P-PU DIP40　20Mhz | 1個 ￥750（税込） | http://akizukidenshi.com/catalog/g/gI-04461/ |
+| ATMEGA1284P-AU TQFP44 20Mhz | 1個 ￥780（税込） | http://akizukidenshi.com/catalog/g/gI-04416/ |
 
 ## MegaCore
 https://github.com/MCUdude/MegaCore
@@ -77,11 +66,11 @@ https://github.com/MCUdude/MegaCore
 
 | 商品名                       | 販売価格          | URL                                          |
 |------------------------------|-------------------|----------------------------------------------|
-| ATMEGA128-16AU  | 1個 ￥800（税込） | http://akizukidenshi.com/catalog/g/gI-01116/ |
-| ATMEGA128-16AU  | 1個 ￥800（税込） | http://akizukidenshi.com/catalog/g/gI-09155/ |
-| ATMEGA64-16AU   | 1個 ￥500（税込） | http://akizukidenshi.com/catalog/g/gI-01117/ |
-| ATMEGA64L-8AU   | 1個 ￥600（税込） | http://akizukidenshi.com/catalog/g/gI-01118/ |
-| ATMEGA64A-AU    | 1個 ￥700（税込） | http://akizukidenshi.com/catalog/g/gI-04255/ |
+| ATMEGA128-16AU TQFP64 16Mhz | 1個 ￥800（税込） | http://akizukidenshi.com/catalog/g/gI-01116/ |
+| ATMEGA128-16AU (0525)TQFP64  | 1個 ￥800（税込） | http://akizukidenshi.com/catalog/g/gI-09155/ |
+| ATMEGA64-16AU TQFP64 16Mhz | 1個 ￥500（税込） | http://akizukidenshi.com/catalog/g/gI-01117/ |
+| ATMEGA64L-8AU TQFP64 8Mhz | 1個 ￥600（税込） | http://akizukidenshi.com/catalog/g/gI-01118/ |
+| ATMEGA64A-AU  TQFP64 16Mhz | 1個 ￥700（税込） | http://akizukidenshi.com/catalog/g/gI-04255/ |
 
 ## ATXmega
 ### XMega For Arduino
@@ -106,7 +95,11 @@ https://github.com/SpenceKonde/ATTinyCore
 | ATTINY85-20PU   | 1個 ￥160（税込）     | http://akizukidenshi.com/catalog/g/gI-09573/ |
 | ATTINY861A-PU   | 1個 ￥220（税込）    | http://akizukidenshi.com/catalog/g/gI-04301/ |
 | ATTINY2313-20PU | 1個 ￥230（税込）     | http://akizukidenshi.com/catalog/g/gI-01600/ |
+| AT90S2313-10PC (ATTINY2313互換） | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00026/ |
 | ATTINY85-20SUR  | 1個 ￥250（税込）     | http://akizukidenshi.com/catalog/g/gI-09574/ |
+
+Arduino ATtiny/mega ピン割付表
+http://make.kosakalab.com/web-archives/pins_arduino/
 
 ### with or without Optiboot bootloader
 * ATTiny87, 167 
@@ -122,12 +115,24 @@ http://elm-chan.org/works/tiny/report.html
 | ATTINY13A-PU    | 1個 ￥50（税込）      | http://akizukidenshi.com/catalog/g/gI-02911/ |
 | ATTINY10 変換基板実装       | 1パック ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-05174/ |
 
-| AT90S2313-10PC  | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00026/ |
+
+
+
+
 | AT90S2323-10PC  | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00027/ |
 | AT90S4433-8PC   | 1個 ￥600（税込）     | http://akizukidenshi.com/catalog/g/gI-00270/ |
 | AT90S8535-8     | 1個 ￥700（税込）     | http://akizukidenshi.com/catalog/g/gI-00030/ |
 
 # そのほか
+スニペットとは、一般的には「切れ端」「断片」という意味の英語である。 IT用語としては、プログラミング言語の中で簡単に切り貼りして再利用できる部分のこと、または、検索エンジンによる検索結果の一部として表示される、Webページの要約文のことである。
+
+AVRについてのページ
+http://yueda.issp.u-tokyo.ac.jp/weda/avr/avrj.html
+
+Adafruit Trinketを使ってHID（キーボード）を作る
+http://b.denkizakana.com/2014/07/adafruit-trinkethid.html
+
+
 Markdown Tables Generator
 http://www.tablesgenerator.com/markdown_tables
 
