@@ -79,9 +79,21 @@ https://github.com/MCUdude/MegaCore
 ### XMega For Arduino
 https://github.com/XMegaForArduino
 
+AVR XMEGA マイクロコントローラー http://www.atmel.com/ja/jp/products/microcontrollers/avr/avr_xmega.aspx
+
+1.6~3.3V 
+
+## Supported microcontrollers:
+* ATXMega64D4
+* ATXMega32E5
+* ATXMega128A1
+* ATXMega128A1U
+* CC0 ATXMega32E5 breakout
+* Rock Solid XMega 128A
+
 | 商品名                       | 販売価格          | URL                                          |
 |------------------------------|-------------------|----------------------------------------------|
-| ATXMEGA32D4-AUR | 1個 ￥250（税込） | http://akizukidenshi.com/catalog/g/gI-06993/ |
+| ATXMEGA32D4-AUR TQFP44 32Mhz| 1個 ￥250（税込） | http://akizukidenshi.com/catalog/g/gI-06993/ |
 
 ## ATtiny
 SpenceKonde/ATTinyCore
@@ -95,11 +107,11 @@ https://github.com/SpenceKonde/ATTinyCore
 
 | 商品名                       | 販売価格              |                                              |
 |------------------------------|-----------------------|----------------------------------------------|
-| ATTINY85-20PU   | 1個 ￥160（税込）     | http://akizukidenshi.com/catalog/g/gI-09573/ |
-| ATTINY861A-PU   | 1個 ￥220（税込）    | http://akizukidenshi.com/catalog/g/gI-04301/ |
-| ATTINY2313-20PU | 1個 ￥230（税込）     | http://akizukidenshi.com/catalog/g/gI-01600/ |
-| AT90S2313-10PC (ATTINY2313互換） | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00026/ |
-| ATTINY85-20SUR  | 1個 ￥250（税込）     | http://akizukidenshi.com/catalog/g/gI-09574/ |
+| ATTINY85-20PU DIP8 20Mhz  | 1個 ￥160（税込）     | http://akizukidenshi.com/catalog/g/gI-09573/ |
+| ATTINY861A-PU DIP20 20Mhz  | 1個 ￥220（税込）    | http://akizukidenshi.com/catalog/g/gI-04301/ |
+| ATTINY2313-20PU DIP20 20Mhz | 1個 ￥230（税込）     | http://akizukidenshi.com/catalog/g/gI-01600/ |
+| AT90S2313-10PC 10MHz(ATTINY2313互換）| 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00026/ |
+| ATTINY85-20SUR SOP8 20Mhz | 1個 ￥250（税込）     | http://akizukidenshi.com/catalog/g/gI-09574/ |
 
 Arduino ATtiny/mega ピン割付表
 http://make.kosakalab.com/web-archives/pins_arduino/
@@ -110,24 +122,23 @@ http://make.kosakalab.com/web-archives/pins_arduino/
 * ATTiny1634
 * ATTiny828
 
-8pin AVRの活用
-http://elm-chan.org/works/tiny/report.html
+## 8pin AVRの活用
+http://elm-chan.org/works/tiny/report.html 
 
 | 商品名                       | 販売価格              |                                              |
 |------------------------------|-----------------------|----------------------------------------------|
-| ATTINY13A-PU    | 1個 ￥50（税込）      | http://akizukidenshi.com/catalog/g/gI-02911/ |
-| ATTINY10 変換基板実装       | 1パック ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-05174/ |
+| ATTINY13A-PU DIP8 9.6Mhz   | 1個 ￥50（税込）      | http://akizukidenshi.com/catalog/g/gI-02911/ |
+| ATTINY10 SOT6ピン 12Mhz 変換基板 | 1パック ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-05174/ |
+| AT90S2323-10PC DIP8 10Mhz  | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00027/ |
 
-
-
-
-
-| AT90S2323-10PC  | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00027/ |
-| AT90S4433-8PC   | 1個 ￥600（税込）     | http://akizukidenshi.com/catalog/g/gI-00270/ |
-| AT90S8535-8     | 1個 ￥700（税込）     | http://akizukidenshi.com/catalog/g/gI-00030/ |
+## AVR不明
+| 商品名                       | 販売価格              |                                              |
+|------------------------------|-----------------------|----------------------------------------------|
+| AT90S4433-8PC DIP28 | 1個 ￥600（税込）     | http://akizukidenshi.com/catalog/g/gI-00270/ |
+| AT90S8535-8 DIP40  8Mhz  | 1個 ￥700（税込）   | http://akizukidenshi.com/catalog/g/gI-00030/ |
 
 # そのほか
-スニペットとは、一般的には「切れ端」「断片」という意味の英語である。 IT用語としては、プログラミング言語の中で簡単に切り貼りして再利用できる部分のこと、または、検索エンジンによる検索結果の一部として表示される、Webページの要約文のことである。
+スニペットとは、一般的には「切れ端」「断片」という意味の英語である。
 
 AVRについてのページ
 http://yueda.issp.u-tokyo.ac.jp/weda/avr/avrj.html
