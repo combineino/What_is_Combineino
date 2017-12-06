@@ -9,8 +9,8 @@ https://www.oshwa.org/
 オープンソース・ハードウェア（OSHW）基準書1.0
 https://www.oshwa.org/definition/japanese/
 
-オープンソースハードウェア　wikipedia.
-https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2
+オープンソースハードウェア　[wikipedia.](
+https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2)
 
 スニペットとは、一般的には「切れ端」「断片」という意味の英語である。 IT用語としては、プログラミング言語の中で簡単に切り貼りして再利用できる部分のこと、または、検索エンジンによる検索結果の一部として表示される、Webページの要約文のことである。
 
@@ -24,6 +24,14 @@ Adafruit Trinketを使ってHID（キーボード）を作る
 http://b.denkizakana.com/2014/07/adafruit-trinkethid.html
 
 ## ATmega
+### MiniCore
+https://github.com/MCUdude/MiniCore
+#### Supported microcontrollers:
+* ATmega8*
+* ATmega48*
+* ATmega88*
+* ATmega168*
+* ATmega328*
 
 | 商品名                       | 販売価格          | URL                                          |
 |------------------------------|-------------------|----------------------------------------------|
@@ -33,19 +41,50 @@ http://b.denkizakana.com/2014/07/adafruit-trinkethid.html
 | ATMEGA168P-20PU　 | 1個 ￥200（税込） | http://akizukidenshi.com/catalog/g/gI-03033/ |
 | ATMEGA328P-PU　   | 1個 ￥250（税込） | http://akizukidenshi.com/catalog/g/gI-03142/ |
 | ATMEGA328P-AU　   | 1個 ￥280（税込） | http://akizukidenshi.com/catalog/g/gI-04386/ |
+### ATmega328PB Testing
+https://github.com/watterott/ATmega328PB-Testing/
+
+### MightyCore
+https://github.com/MCUdude/MightyCore
+### Supported microcontrollers
+* ATmega1284
+* ATmega644
+* ATmega324
+* ATmega164
+* ATmega32
+* ATmega16
+* ATmega8535
+
+| 商品名                       | 販売価格          | URL                                          |
+|------------------------------|-------------------|----------------------------------------------|
 | ATMEGA32U2-AUR  | 1個 ￥400（税込） | http://akizukidenshi.com/catalog/g/gI-06994/ |
 | ATMEGA164P-20PU | 1個 ￥500（税込） | http://akizukidenshi.com/catalog/g/gI-02269/ |
-| ATMEGA64-16AU   | 1個 ￥500（税込） | http://akizukidenshi.com/catalog/g/gI-01117/ |
-| ATMEGA64L-8AU   | 1個 ￥600（税込） | http://akizukidenshi.com/catalog/g/gI-01118/ |
 | ATMEGA32U4-AUR  | 1個 ￥640（税込） | http://akizukidenshi.com/catalog/g/gI-09835/ |
-| ATMEGA64A-AU    | 1個 ￥700（税込） | http://akizukidenshi.com/catalog/g/gI-04255/ |
 | ATMEGA1284P-PU  | 1個 ￥750（税込） | http://akizukidenshi.com/catalog/g/gI-04461/ |
 | ATMEGA1284P-AU  | 1個 ￥780（税込） | http://akizukidenshi.com/catalog/g/gI-04416/ |
+
+## MegaCore
+https://github.com/MCUdude/MegaCore
+### Supported microcontrollers:
+* ATmega2561
+* ATmega2560
+* ATmega1281
+* ATmega1280
+* ATmega640
+* ATmega128
+* ATmega64
+(All variants - A, L, V) 
+
+| 商品名                       | 販売価格          | URL                                          |
+|------------------------------|-------------------|----------------------------------------------|
 | ATMEGA128-16AU  | 1個 ￥800（税込） | http://akizukidenshi.com/catalog/g/gI-01116/ |
 | ATMEGA128-16AU  | 1個 ￥800（税込） | http://akizukidenshi.com/catalog/g/gI-09155/ |
+| ATMEGA64-16AU   | 1個 ￥500（税込） | http://akizukidenshi.com/catalog/g/gI-01117/ |
+| ATMEGA64L-8AU   | 1個 ￥600（税込） | http://akizukidenshi.com/catalog/g/gI-01118/ |
+| ATMEGA64A-AU    | 1個 ￥700（税込） | http://akizukidenshi.com/catalog/g/gI-04255/ |
 
 ## ATXmega
-XMega For Arduino
+### XMega For Arduino
 https://github.com/XMegaForArduino
 
 | 商品名                       | 販売価格          | URL                                          |
@@ -55,6 +94,25 @@ https://github.com/XMegaForArduino
 ## ATtiny
 SpenceKonde/ATTinyCore
 https://github.com/SpenceKonde/ATTinyCore
+### Supported microcontrollers:
+* ATtiny2313, 4313
+* ATtiny24, 44, 84
+* ATtiny25, 45, 85
+* ATtiny261, 461, 861
+* ATTiny48, 88
+
+| 商品名                       | 販売価格              |                                              |
+|------------------------------|-----------------------|----------------------------------------------|
+| ATTINY85-20PU   | 1個 ￥160（税込）     | http://akizukidenshi.com/catalog/g/gI-09573/ |
+| ATTINY861A-PU   | 1個 ￥220（税込）    | http://akizukidenshi.com/catalog/g/gI-04301/ |
+| ATTINY2313-20PU | 1個 ￥230（税込）     | http://akizukidenshi.com/catalog/g/gI-01600/ |
+| ATTINY85-20SUR  | 1個 ￥250（税込）     | http://akizukidenshi.com/catalog/g/gI-09574/ |
+
+### with or without Optiboot bootloader
+* ATTiny87, 167 
+* ATTiny441, 841
+* ATTiny1634
+* ATTiny828
 
 8pin AVRの活用
 http://elm-chan.org/works/tiny/report.html
@@ -62,16 +120,14 @@ http://elm-chan.org/works/tiny/report.html
 | 商品名                       | 販売価格              |                                              |
 |------------------------------|-----------------------|----------------------------------------------|
 | ATTINY13A-PU    | 1個 ￥50（税込）      | http://akizukidenshi.com/catalog/g/gI-02911/ |
+| ATTINY10 変換基板実装       | 1パック ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-05174/ |
+
 | AT90S2313-10PC  | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00026/ |
 | AT90S2323-10PC  | 1個 ￥100（税込）     | http://akizukidenshi.com/catalog/g/gI-00027/ |
-| ATTINY10 変換基板実装       | 1パック ￥150（税込） | http://akizukidenshi.com/catalog/g/gI-05174/ |
-| ATTINY85-20PU   | 1個 ￥160（税込）     | http://akizukidenshi.com/catalog/g/gI-09573/ |
-| ATTINY861A-PU   | 1個 ￥220（税込）    | http://akizukidenshi.com/catalog/g/gI-04301/ |
-| ATTINY2313-20PU | 1個 ￥230（税込）     | http://akizukidenshi.com/catalog/g/gI-01600/ |
-| ATTINY85-20SUR  | 1個 ￥250（税込）     | http://akizukidenshi.com/catalog/g/gI-09574/ |
 | AT90S4433-8PC   | 1個 ￥600（税込）     | http://akizukidenshi.com/catalog/g/gI-00270/ |
 | AT90S8535-8     | 1個 ￥700（税込）     | http://akizukidenshi.com/catalog/g/gI-00030/ |
 
+# そのほか
 Markdown Tables Generator
 http://www.tablesgenerator.com/markdown_tables
 
