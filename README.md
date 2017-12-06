@@ -65,6 +65,8 @@ https://github.com/MCUdude/MegaCore
 | **PWM pins** | 15       | 15       | 15      | 8        | 8        | 7       | 7      |
 | **LED pin**  | PB7      | PB7      | PB7     | PB5      | PB5      | PB5     | PB5    |
 
+* 86 IO pins is only available with the AVR pinout selected
+https://camo.githubusercontent.com/111cedfdd3ed144af35375382874e3c54b4faf8f/687474703a2f2f692e696d6775722e636f6d2f446652376172442e6a7067
 (All variants - A, L, V) 
 
 | 商品名                       | 販売価格          | URL                                          |
