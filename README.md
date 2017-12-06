@@ -16,11 +16,12 @@ https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%8
 ### MiniCore
 https://github.com/MCUdude/MiniCore
 #### Supported microcontrollers:
-* ATmega8*
-* ATmega48*
-* ATmega88*
-* ATmega168*
-* ATmega328*
+|              | ATmega328 | ATmega168 | ATmega88 | ATmega48 | ATmega8 |
+|--------------|-----------|-----------|----------|----------|---------|
+| **Flash**    | 32kB      | 16kB      | 8kB      | 4kB      | 8kB     |
+| **RAM**      | 2kB       | 1kB       | 1kB      | 512B     | 1kB     |
+| **EEPROM**   | 1kB       | 512B      | 512B     | 256B     | 512B    |
+| **PWM pins** | 6         | 6         | 6        | 6        | 3       |
 
 | 商品名                       | 販売価格          | URL                                          |
 |------------------------------|-------------------|----------------------------------------------|
@@ -36,32 +37,34 @@ https://github.com/watterott/ATmega328PB-Testing/
 ### MightyCore
 https://github.com/MCUdude/MightyCore
 ### Supported microcontrollers
-* ATmega1284
-* ATmega644
-* ATmega324
-* ATmega164
-* ATmega32
-* ATmega16
-* ATmega8535
+|                  | mega1284 | mega644 | mega324 | mega164 | mega32 | mega16 | mega8535 |
+|------------------|----------|---------|---------|---------|--------|--------|----------|
+| **Flash**        | 128kB    | 64kB    | 32kB    | 16kB    | 32kB   | 16kB   | 8kB      |
+| **RAM**          | 16kB     | 4kB     | 2kB     | 1kB     | 2kB    | 1kB    | 512B     |
+| **EEPROM**       | 4kB      | 2kB     | 1kB     | 512B    | 512B   | 512B   | 512B     |
+| **Serial ports** | 2        | 2       | 2       | 2       | 1      | 1      | 1        |
+| **PWM pins**     | 8        | 6       | 6       | 6       | 4      | 4      | 4        |
 
 | 商品名                       | 販売価格          | URL                                          |
 |------------------------------|-------------------|----------------------------------------------|
 | ATMEGA32U2-AUR TQFP32 16Mhz USB | 1個 ￥400（税込） | http://akizukidenshi.com/catalog/g/gI-06994/ |
-| ATMEGA164P-20PU DIP40　20Mhz| 1個 ￥500（税込） | http://akizukidenshi.com/catalog/g/gI-02269/ |
 | ATMEGA32U4-AUR TQFP44 16Mhz USB | 1個 ￥640（税込） | http://akizukidenshi.com/catalog/g/gI-09835/ |
+| ATMEGA164P-20PU DIP40　20Mhz| 1個 ￥500（税込） | http://akizukidenshi.com/catalog/g/gI-02269/ |
 | ATMEGA1284P-PU DIP40　20Mhz | 1個 ￥750（税込） | http://akizukidenshi.com/catalog/g/gI-04461/ |
 | ATMEGA1284P-AU TQFP44 20Mhz | 1個 ￥780（税込） | http://akizukidenshi.com/catalog/g/gI-04416/ |
 
 ## MegaCore
 https://github.com/MCUdude/MegaCore
 ### Supported microcontrollers:
-* ATmega2561
-* ATmega2560
-* ATmega1281
-* ATmega1280
-* ATmega640
-* ATmega128
-* ATmega64
+|              | Mega2560 | Mega1280 | Mega640 | Mega2561 | Mega1281 | Mega128 | Mega64 | 
+|--------------|----------|----------|---------|----------|----------|---------|--------|
+| **Flash**    | 256kB    | 128kB    | 64kB    | 256kB    | 128kB    | 128kB   | 64kB   |
+| **RAM**      | 8kB      | 8kB      | 8kB     | 8kB      | 8kB      | 4kB     | 4kB    |
+| **EEPROM**   | 4kB      | 4kB      | 4kB     | 4kB      | 4kB      | 4kB     | 2kB    |
+| **IO pins**  | 70/86 *  | 70/86 *  | 70/86 * | 54       | 54       | 53      | 53     |
+| **PWM pins** | 15       | 15       | 15      | 8        | 8        | 7       | 7      |
+| **LED pin**  | PB7      | PB7      | PB7     | PB5      | PB5      | PB5     | PB5    |
+
 (All variants - A, L, V) 
 
 | 商品名                       | 販売価格          | URL                                          |
