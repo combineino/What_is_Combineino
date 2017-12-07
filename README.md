@@ -118,6 +118,12 @@ https://github.com/SpenceKonde/ATTinyCore
 Arduino ATtiny/mega ピン割付表
 http://make.kosakalab.com/web-archives/pins_arduino/
 
+IgorUSB 
+http://einstlab.web.fc2.com/USB/IgorUSB.html
+
+Adafruit Trinketを使ってHID（キーボード）を作る
+http://b.denkizakana.com/2014/07/adafruit-trinkethid.html
+
 ### with or without Optiboot bootloader
 * ATTiny87, 167 
 * ATTiny441, 841
@@ -144,9 +150,6 @@ http://elm-chan.org/works/tiny/report.html
 
 AVRについてのページ
 http://yueda.issp.u-tokyo.ac.jp/weda/avr/avrj.html
-
-Adafruit Trinketを使ってHID（キーボード）を作る
-http://b.denkizakana.com/2014/07/adafruit-trinkethid.html
 
 
 Markdown Tables Generator
